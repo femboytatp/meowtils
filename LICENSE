@@ -22,7 +22,7 @@ Distribute official, unmodified versions of Meowtils, provided no changes or add
 
 You may not:
 
-Distribute modified versions of Meowtils, or tools/patches whose primary purpose is to alter Meowtils’ original code or assets. This does not restrict distribution of separate modifications for Meowtils that may modify it at runtime without modifying the original JAR file.
+Distribute modified versions of Meowtils, or tools/patches whose primary purpose is to alter Meowtils original code or assets. This does not restrict distribution of separate modifications for Meowtils that may modify it at runtime without modifying the original JAR file.
 
 Use any portion of the source code, assets, or resources from Meowtils in any project intended for public distribution without explicit written permission from the author.
 
@@ -30,4 +30,4 @@ Sell, monetize, or otherwise profit from distributing Meowtils or any modified/d
 
 3. Disclaimer
 
-Meowtils is provided “as-is” without warranty of any kind. The author shall not be held liable for any damages or issues resulting from the use of Meowtils.
+Meowtils is provided as-is without warranty of any kind. The author shall not be held liable for any damages or issues resulting from the use of Meowtils.
