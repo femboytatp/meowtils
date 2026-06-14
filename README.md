@@ -40,7 +40,7 @@ Like a small mod loaded by **Meowtils**, which lets you add your own features. C
 ## Support
 
 > [!NOTE]
-> This requires you to [register a GitHub account](https://github.com/signup), alternatively you can join [Mega's Discord Server](https://discord.gg/XVrHPaMGGv) for support.
+> This requires you to register a [GitHub account](https://github.com/signup), alternatively you can join [Mega's Discord Server](https://discord.gg/XVrHPaMGGv) for support.
 
 ### Help
 
