@@ -1,0 +1,46 @@
+name: Report Issues
+description: Report any potential issues related to Meowtils
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please be specific when describing your issue.
+
+  - type: dropdown
+    id: selected-client
+    attributes:
+      label: Which client are you using?
+      options:
+        - Forge
+        - Lunar Client
+    validations:
+      required: true
+
+  - type: dropdown
+    id: selected-launcher
+    attributes:
+      label: What launcher are you using?, if using other please describe which one below.
+      options:
+        - Lunar Launcher
+        - Vanilla Launcher
+        - Feather Client
+        - Prism Launcher
+        - Modrinth Launcher
+        - MultiMC Launcher
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: describe-issue
+    attributes:
+      label: Describe your issue
+    validations:
+      required: true
+
+  - type: textarea
+    id: other-mods
+    attributes:
+      label: Are you using any other mods?, if so list them here.
+    validations:
+      required: false
