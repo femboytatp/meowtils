@@ -1,10 +1,9 @@
-name: Report Issues
-description: Report any potential issues related to Meowtils
+title: Report Issues
 body:
   - type: markdown
     attributes:
       value: |
-        Please be specific when describing your issue.
+        Please be specific when describing your issue and include as much information as you can.
 
   - type: dropdown
     id: selected-client
@@ -15,7 +14,7 @@ body:
         - Lunar Client
     validations:
       required: true
-
+      
   - type: dropdown
     id: selected-launcher
     attributes:
